@@ -1,5 +1,6 @@
 <?php
 namespace MVC\Config;
+
 use PDO;
 
 class Database

@@ -1,7 +1,9 @@
 <?php 
 namespace MVC\Core;
+
 use MVC\Config\Database;
 use PDO;
+
  class ResourceModel implements ResourceModelInterface{
  	protected $table;
  	protected $id;
